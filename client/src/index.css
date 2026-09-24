@@ -1,0 +1,4 @@
+:root { font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; color: #18252b; background: #f5f8f7; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+body { margin: 0; }
+button, input, select { font: inherit; }
+button { cursor: pointer; }
