@@ -9,7 +9,7 @@ const companies = [
   { name: 'Capgemini', type: 'Technology services', tone: 'pink' }, { name: 'Cognizant', type: 'Digital engineering', tone: 'yellow' },
 ]
 const blankForm = { studentName: '', age: '', rollNo: '', dob: '', bloodGroup: '', email: '', address: '', phone: '', department: '', course: '', gender: '', year: '', section: '', backlogs: '0' }
-const API_URL = 'http://localhost:5000/api'
+const API_URL = 'https://asmitha.onrender.com/api'
 
 function App() {
   const [activeView, setActiveView] = useState('register')
